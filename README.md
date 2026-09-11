@@ -71,5 +71,5 @@ it can be projected through `kotoba-ledger-clj`'s JSONL codec the same way
 ## Tests
 
 ```sh
-clojure -M:test
+kbb -M:test
 ```
