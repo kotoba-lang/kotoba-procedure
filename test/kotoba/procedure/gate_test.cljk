@@ -1,5 +1,5 @@
 (ns kotoba.procedure.gate-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [kotoba.procedure.store :as store]
             [kotoba.procedure.gate :as gate]))
 
