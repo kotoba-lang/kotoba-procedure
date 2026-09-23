@@ -1,5 +1,5 @@
 (ns kotoba.procedure.store-test
-  (:require [clojure.test :refer [deftest is]]
+  (:require [kotoba.test :refer [deftest is]]
             [kotoba.procedure.store :as store]))
 
 (deftest put-entity-merges-into-the-existing-entity
